@@ -1,0 +1,178 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+
+/* Style */
+
+
+.head {
+    position: relative;
+    
+}
+
+.navbar-nav {
+    margin-left: 53%;
+}
+
+.Brand navbar-brand {
+    text-decoration: none;
+}
+
+.jumbotron {
+    background-image: url(http://i66.tinypic.com/28am9fs.jpg);
+    background-size: cover;
+    text-align: center;
+}
+
+.display-4 {
+    color: white;
+}
+
+.lead {
+    color: white;
+}
+
+.btn {
+    margin-top: 30px;
+}
+
+.koding {
+    text-align: center;
+}
+
+.santrenkilat-body h3 {
+    text-align: center;
+}
+
+.card {
+    transition: box-shadow .3s;
+}
+
+.card:hover {
+    box-shadow: 0 0 40px rgba(33, 33, 33, 0.2);
+}
+
+.hr {
+    border-top: 1px solid #e7e7e7;
+}
+
+.Warna-biru {
+    background-color: #0bc72a;
+    color: white;
+    text-align: center;
+}
+
+.anticon {
+    display: inline-block;
+    font-style: normal;
+    vertical-align: baseline;
+    text-align: center;
+    text-transform: none;
+    line-height: 1;
+    text-rendering: optimizeLegibility;
+    color: white;
+}
+
+#icon {
+    color: white;
+}
+
+.box-shadow {
+    box-shadow: 0 0 40px rgba(0,0,0,0,2);
+}
+
+.Warna-putih {
+    background-color: #fff;
+    border: 1px solid #e7e7e7;
+    text-align: center;
+}
+
+.rew {
+    margin: auto;
+    margin-left: 8%;
+}
+
+.Mondok-body {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+.container {
+    text-align: center;
+}
+
+.img {
+    margin-right: 6%
+}
+
+.sponsor {
+    text-align: center;
+    margin-left: 6%;
+     border-top: 1px solid #e7e7e7;
+}
+
+.pooter {
+    border-top: 1px solid rgb(231, 231, 231); 
+    text-align: center; 
+    padding: 20px; 
+    left: 0px; 
+    bottom: 0px; 
+    height: 60px; 
+    width: 100%; 
+    color: rgb(108, 117, 125);
+}
+
+#acti {
+    text-align: left;
+}
+
+
